@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Apr  7 18:06:41 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : blinking
+Top-level Entity Name : DE0_Nano
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 38 / 22,320 ( < 1 % )
+    Total combinational functions : 30 / 22,320 ( < 1 % )
+    Dedicated logic registers : 38 / 22,320 ( < 1 % )
+Total registers : 38
+Total pins : 154 / 154 ( 100 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
